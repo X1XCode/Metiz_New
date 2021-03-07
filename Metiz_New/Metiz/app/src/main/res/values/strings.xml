@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Metiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_key">AIzaSyCtPkNeZpmyS_i7nic-Kfsd_vKBCYN_txk</string>
+</resources>
